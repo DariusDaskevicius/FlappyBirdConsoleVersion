@@ -1,0 +1,13 @@
+C:\Users\darek\source\repos\FlappyBirdByDarius\FlappyBirdByDarius\bin\Debug\netcoreapp3.1\FlappyBirdByDarius.exe
+C:\Users\darek\source\repos\FlappyBirdByDarius\FlappyBirdByDarius\bin\Debug\netcoreapp3.1\FlappyBirdByDarius.deps.json
+C:\Users\darek\source\repos\FlappyBirdByDarius\FlappyBirdByDarius\bin\Debug\netcoreapp3.1\FlappyBirdByDarius.runtimeconfig.json
+C:\Users\darek\source\repos\FlappyBirdByDarius\FlappyBirdByDarius\bin\Debug\netcoreapp3.1\FlappyBirdByDarius.runtimeconfig.dev.json
+C:\Users\darek\source\repos\FlappyBirdByDarius\FlappyBirdByDarius\bin\Debug\netcoreapp3.1\FlappyBirdByDarius.dll
+C:\Users\darek\source\repos\FlappyBirdByDarius\FlappyBirdByDarius\bin\Debug\netcoreapp3.1\FlappyBirdByDarius.pdb
+C:\Users\darek\source\repos\FlappyBirdByDarius\FlappyBirdByDarius\obj\Debug\netcoreapp3.1\FlappyBirdByDarius.csprojAssemblyReference.cache
+C:\Users\darek\source\repos\FlappyBirdByDarius\FlappyBirdByDarius\obj\Debug\netcoreapp3.1\FlappyBirdByDarius.csproj.CoreCompileInputs.cache
+C:\Users\darek\source\repos\FlappyBirdByDarius\FlappyBirdByDarius\obj\Debug\netcoreapp3.1\FlappyBirdByDarius.AssemblyInfoInputs.cache
+C:\Users\darek\source\repos\FlappyBirdByDarius\FlappyBirdByDarius\obj\Debug\netcoreapp3.1\FlappyBirdByDarius.AssemblyInfo.cs
+C:\Users\darek\source\repos\FlappyBirdByDarius\FlappyBirdByDarius\obj\Debug\netcoreapp3.1\FlappyBirdByDarius.dll
+C:\Users\darek\source\repos\FlappyBirdByDarius\FlappyBirdByDarius\obj\Debug\netcoreapp3.1\FlappyBirdByDarius.pdb
+C:\Users\darek\source\repos\FlappyBirdByDarius\FlappyBirdByDarius\obj\Debug\netcoreapp3.1\FlappyBirdByDarius.genruntimeconfig.cache
